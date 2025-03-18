@@ -1,2 +1,0 @@
-INSERT INTO `hospital`.`login` (`id`, `username`, `password`, `role`) VALUES ('1', 'riya@yopmail.com', 'Demo_1234', 'Receptionist');
-INSERT INTO `hospital`.`branch` (`id`, `name`, `address`) VALUES ('1', 'BhadGao', 'Jalgao');
