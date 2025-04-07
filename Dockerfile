@@ -5,7 +5,7 @@ FROM tomcat:9.0
 COPY ./target/spti-health-api.war /usr/local/tomcat/webapps/
 
 # Expose Tomcat port
-EXPOSE 8081
+EXPOSE 8082
 
 # Start Tomcat
 CMD ["catalina.sh", "run"]
